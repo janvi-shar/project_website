@@ -1,0 +1,1 @@
+<head>: It should be the first element inside the <html> element, which contains the metadata(information about the document). It must be closed before the body tag opens.
